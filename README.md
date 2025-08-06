@@ -1,6 +1,6 @@
 - Colm J. Shalvey
-- Student at The University of Scranton (Scranton, PA)
-- Graduated from Tappan Zee High School (Orangeburg, NY)
+- The University of Scranton(2025) (Scranton, PA)
+- Graduated from Tappan Zee High School(2021) (Orangeburg, NY)
 - Cybercrime and Homeland Security Major & Computer Science Minor
 - Current Proficient Languages .....
 - Intrests: Cybersecurity, Cyber Law, Web Programming
